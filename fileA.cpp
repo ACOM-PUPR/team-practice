@@ -3,7 +3,7 @@ using namespace std;
 
 void functionA() {
     // Developer1: Change this message
-    cout << "Function A: Performing arithmetic operations." << endl;
+    cout << "Hello, I am Writing  this - Chris." << endl;
 
     int a = 5, b = 10;
 

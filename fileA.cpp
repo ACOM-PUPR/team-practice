@@ -14,10 +14,20 @@ void functionA() {
     int subtract = a - b;
     
     // Developer4: Modify this output to use the sum calculation
+
     cout << "Sum: " << sum << endl;
     
     // Developer5: Modify this output to use the subtract calculation
     cout << "Subtract: " << subtract << endl;
+
+	// Developer5: Modify this output to use the subtract calculation
+
+    cout << "Sum: " << (a + b) << endl;
+
+    for (int i = 0; i < 100; i++){
+        cout << "HOLA MUNDO BEEP BOOP!!!" << endl;
+    }
+
 }
 
 int main() {

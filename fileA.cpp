@@ -6,7 +6,7 @@ void functionA() {
     // Developer1: Change this message
     cout << "Function A: Hello from Developer1!" << endl;
 
-	int a = 5, b = 10;
+	int a = 5, b = 11;
 
     // Developer2: Add a simple sum calculation
 

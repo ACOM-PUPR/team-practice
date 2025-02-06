@@ -7,7 +7,7 @@ void functionB() {
     cout << "Function B: write a message here." << endl;
 
     // Developer2: Modify this array
-    int nums[] = {1, 2, 3, 4, 5};
+    int nums[] = {8,0,0,8,5};
     
 	int size = sizeof(nums) / sizeof(nums[0]);
     int sum = 0;

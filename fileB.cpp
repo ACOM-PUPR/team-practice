@@ -4,7 +4,7 @@ using namespace std;
 
 void functionB() {
     // Developer1: Modify this message
-    cout << "Function B: write a message here." << endl;
+    cout << "Function B: This function prints the sum of an array." << endl;
 
     // Developer2: Modify this array
     int nums[] = {1, 2, 3, 4, 5};

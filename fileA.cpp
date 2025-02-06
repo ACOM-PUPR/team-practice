@@ -16,7 +16,7 @@ void functionA() {
 
 	
 	// Developer3: Add a simple subtract calculation
-    sub = 10 -5
+    sub = 10 - 5;
 	
 	
     // Developer4: Modify this output to use the sum calculation

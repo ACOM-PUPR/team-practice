@@ -4,7 +4,7 @@ using namespace std;
 
 void functionB() {
     // Developer1: Modify this message
-    cout << "Function B: write a message here." << endl;
+    cout << "Function B: This messaged was changed on November 17, 2025." << endl;
 
     // Developer2: Modify this array
     int nums[] = {8,0,0,8,5};

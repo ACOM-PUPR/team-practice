@@ -22,6 +22,9 @@ void functionA() {
 
     cout << "Sum: " << (a + b) << endl;
 
+    // Added Substraction 
+    cout << "Substraction: " << (a - b) << endl;
+
     for (int i = 0; i < 100; i++){
         cout << "HOLA MUNDO BEEP BOOP!!!" << endl;
     }

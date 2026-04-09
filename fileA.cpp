@@ -12,7 +12,9 @@ void functionA() {
 	int a = 5, b = 10;
 
     // Developer2: Add a simple sum calculation
+    int hola = 1234;
 
+    cout << hola << endl;
 	
 	// Developer3: Add a simple subtract calculation
 	

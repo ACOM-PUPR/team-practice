@@ -12,7 +12,9 @@ void functionA() {
 	int a = 5, b = 10;
 
     // Developer2: Add a simple sum calculation
+    int hola = 1234;
 
+    cout << hola << endl;
 	
 	// Developer3: Add a simple subtract calculation
 	
@@ -21,6 +23,9 @@ void functionA() {
 	// Developer5: Modify this output to use the subtract calculation
 
     cout << "Sum: " << (a + b) << endl;
+
+    // Added Substraction 
+    cout << "Substraction: " << (a - b) << endl;
 
     for (int i = 0; i < 100; i++){
         cout << "HOLA MUNDO BEEP BOOP!!!" << endl;

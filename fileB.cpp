@@ -3,23 +3,26 @@
 using namespace std;
 
 void functionB() {
-    // Developer1: Modify this message
-    cout << "Function B: This messaged was changed on November 17, 2025." << endl;
+    string Yourname;
+    char answer;
 
-    // Developer2: Modify this array
-    int nums[] = {8,0,0,8,5};
-    
-	int size = sizeof(nums) / sizeof(nums[0]);
-    int sum = 0;
-	
-	// Developer3: Modify this loop to add the array numbers
-	for (int i = 0; i < size; i++) {
-        cout << nums[i] << " ";
+    cout << "Function B: This messaged was changed on April 9, 2026." << endl;
+
+    cout << "What is your name?" << endl;
+    cin>>Yourname;
+
+    cout << "Your name is " + Yourname << ", correct? (Enter Y for Yes and N for No)" << endl;
+    cin>>answer;
+
+    if (answer == 'Y')
+    {
+        cout << "Great, got it" << endl;
     }
-    cout << endl;
-	
-	// Developer4: Print the sum of the array
-	
+    else{
+         cout << "Well that will be you new name now" << endl;
+    }
+    
+
 }
 
 int main() {
